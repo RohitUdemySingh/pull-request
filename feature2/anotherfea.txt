@@ -1,0 +1,2 @@
+file in feature2
+one more line
