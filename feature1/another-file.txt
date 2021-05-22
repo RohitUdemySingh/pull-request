@@ -1,0 +1,9 @@
+one more file in feature1
+
+<<<<<<< HEAD
+one more change 
+
+change again for push
+=======
+one more change 
+>>>>>>> 6c21234f000f5da2380fed29f4f1c1d207cdea98
